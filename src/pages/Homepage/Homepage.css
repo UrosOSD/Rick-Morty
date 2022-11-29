@@ -1,0 +1,30 @@
+.rick:hover {
+    cursor: pointer;
+}
+
+.pages > .pageNumber{
+    margin-right: 5px; 
+    padding: 10px;
+    background-color: rgb(3, 192, 3);
+    font-size: 20px;
+    color: white;
+    border: none;
+}
+
+.active{
+    border: 3px solid rgb(1, 85, 1) !important;
+}
+
+.pages button:hover {
+    cursor: pointer;
+}
+
+.pages > button > svg {
+    width: 1rem;
+}
+
+.pages {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,4 @@
+const HOME_PAGE = "HOME_PAGE"
+const CHAR_PAGE = "CHAR_PAGE"
+
+export { HOME_PAGE, CHAR_PAGE }
